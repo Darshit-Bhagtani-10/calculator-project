@@ -1,0 +1,54 @@
+html{
+    background-color: black;
+}
+.flex{
+    display : flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    padding:25px;
+    margin: 3px;
+}
+#extra{
+    
+    width:140px;
+}
+.size{
+    width:63px;
+}
+.input{
+    align-items: center;
+    justify-content: center;
+    width:280px;
+    height: 50px;
+    border-radius: 10px;
+    padding-bottom: 65px;
+    margin-bottom: 10px;
+}
+
+#star{
+    width: 65px;
+}
+#minus{
+    width: 65px;
+}
+h1{
+    color: aliceblue;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 120px;
+    padding-top: 30px;
+    font-size: 50px;
+    font-weight: 500;
+    
+}
+
+.input{
+   border-color: black; 
+   border-width: 2px;
+   font-weight: bold;
+   font-size: large;
+}
