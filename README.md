@@ -1,2 +1,4 @@
 # calculator-project
-Created a Calculator using Html , Css , Javascript
+This is the first project I created independently after practicing smaller projects. 
+The project is a calculator that can perform addition, subtraction, multiplication, division, and even modulus using HTML, CSS, and JavaScript.
+
